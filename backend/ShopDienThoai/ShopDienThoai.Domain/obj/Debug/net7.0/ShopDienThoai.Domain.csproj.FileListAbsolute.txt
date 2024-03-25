@@ -1,0 +1,14 @@
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\bin\Debug\net7.0\ShopDienThoai.Domain.deps.json
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\bin\Debug\net7.0\ShopDienThoai.Domain.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\bin\Debug\net7.0\ShopDienThoai.Domain.pdb
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.csproj.AssemblyReference.cache
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.AssemblyInfoInputs.cache
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.AssemblyInfo.cs
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\refint\ShopDienThoai.Domain.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.pdb
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ref\ShopDienThoai.Domain.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\bin\Debug\net7.0\ShopDienThoai.Domain.runtimeconfig.json
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Domain\obj\Debug\net7.0\ShopDienThoai.Domain.genruntimeconfig.cache

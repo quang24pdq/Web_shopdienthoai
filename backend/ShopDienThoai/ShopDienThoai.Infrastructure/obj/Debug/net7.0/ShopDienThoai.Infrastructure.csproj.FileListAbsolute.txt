@@ -1,0 +1,17 @@
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\bin\Debug\net7.0\ShopDienThoai.Infrastructure.deps.json
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\bin\Debug\net7.0\ShopDienThoai.Infrastructure.runtimeconfig.json
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\bin\Debug\net7.0\ShopDienThoai.Infrastructure.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\bin\Debug\net7.0\ShopDienThoai.Infrastructure.pdb
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\bin\Debug\net7.0\ShopDienThoai.Domain.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\bin\Debug\net7.0\ShopDienThoai.Domain.pdb
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.csproj.AssemblyReference.cache
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.AssemblyInfoInputs.cache
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.AssemblyInfo.cs
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.csproj.CopyComplete
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\refint\ShopDienThoai.Infrastructure.dll
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.pdb
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ShopDienThoai.Infrastructure.genruntimeconfig.cache
+D:\Tài liệu\Kì 7\Lập trình Web 1\ShopDienThoai\ShopDienThoai.Infrastructure\obj\Debug\net7.0\ref\ShopDienThoai.Infrastructure.dll
